@@ -5,8 +5,8 @@
     outline: 0;
 }
 
-@import url('partials/_colors.scss');
-@import url('partials/_header.scss');
+@import "partials/header";
+@import "partials/colors";
 
 body{
     font-family: 'Sora', sans-serif;
